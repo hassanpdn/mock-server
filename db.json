@@ -1,0 +1,189 @@
+{
+  "tabs": [
+    "tab1",
+    "tab2",
+    "tab3"
+  ],
+  "tabdata": [
+    {
+      "title": "Marketing",
+      "icon": "icon-marketing",
+      "plugins": [
+        {
+          "id": 1,
+          "name": "plugin1",
+          "enable": true,
+          "state": "active"
+        },
+        {
+          "id": 2,
+          "name": "plugin2",
+          "enable": true,
+          "state": "active"
+        },
+        {
+          "id": 3,
+          "name": "plugin9",
+          "enable": true,
+          "state": "inactive"
+        },
+        {
+          "id": 4,
+          "name": "plugin3",
+          "enable": true,
+          "state": "inactive"
+        },
+        {
+          "id": 5,
+          "name": "plugin5",
+          "enable": true,
+          "state": "active"
+        },
+        {
+          "id": 6,
+          "name": "plugin6",
+          "enable": true,
+          "state": "active"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Finance",
+      "icon": "icon-finance",
+      "plugins": [
+        {
+          "id": 1,
+          "name": "plugin7",
+          "enable": true,
+          "state": "inactive"
+        },
+        {
+          "id": 2,
+          "name": "plugin8",
+          "enable": true,
+          "state": "active"
+        },
+        {
+          "id": 3,
+          "name": "plugin9",
+          "enable": true,
+          "state": "inactive"
+        },
+        {
+          "id": 4,
+          "name": "plugin10",
+          "enable": true,
+          "state": "active"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Personnel",
+      "icon": "icon-people",
+      "plugins": [
+        {
+          "id": 1,
+          "name": "plugin11",
+          "state": "active",
+          "enable": true
+        },
+        {
+          "id": 2,
+          "name": "plugin12",
+          "enabled": false,
+          "state": "active",
+          "enable": true
+        },
+        {
+          "id": 3,
+          "name": "plugin13",
+          "enable": true,
+          "state": "active"
+        }
+      ]
+    }
+  ],
+  "plugins": [
+    {
+      "id": 1,
+      "name": "plugin1",
+      "title": "Plugin 1",
+      "description": "Enim cillum tempor veniam do laboris excepteur laborum fugiat aute magna cillum."
+    },
+    {
+      "id": 2,
+      "name": "plugin2",
+      "title": "Plugin 2",
+      "description": "Proident sunt consequat exercitation incididunt cupidatat quis ut ut eu ullamco nisi excepteur aliqua."
+    },
+    {
+      "id": 3,
+      "name": "plugin3",
+      "title": "Plugin 3",
+      "description": "Amet ea quis qui reprehenderit laborum aute magna incididunt et dolore."
+    },
+    {
+      "id": 4,
+      "name": "plugin4",
+      "title": "Plugin 4",
+      "description": "Sunt culpa labore consequat eu veniam laborum."
+    },
+    {
+      "id": 5,
+      "name": "plugin5",
+      "title": "Plugin 5",
+      "description": "Proident laborum sint nisi enim non aliqua incididunt dolor voluptate tempor."
+    },
+    {
+      "id": 6,
+      "name": "plugin6",
+      "title": "Plugin 6",
+      "description": "Qui cillum velit elit incididunt excepteur nostrud occaecat."
+    },
+    {
+      "id": 7,
+      "name": "plugin7",
+      "title": "Plugin 7",
+      "description": "Culpa excepteur aliquip adipisicing sunt sunt proident aute eiusmod."
+    },
+    {
+      "id": 8,
+      "name": "plugin8",
+      "title": "Plugin 8",
+      "description": "Eiusmod ex labore cillum elit."
+    },
+    {
+      "id": 9,
+      "name": "plugin9",
+      "title": "Plugin 9",
+      "description": "Ut sit sit fugiat qui ullamco ea ea id qui esse magna."
+    },
+    {
+      "id": 10,
+      "name": "plugin10",
+      "title": "Plugin 10",
+      "description": "Aliqua tempor nostrud occaecat enim nulla proident nostrud enim adipisicing pariatur velit."
+    },
+    {
+      "id": 11,
+      "name": "plugin11",
+      "title": "Plugin 11",
+      "description": "Consectetur sit amet velit cillum sunt cillum sunt."
+    },
+    {
+      "id": 12,
+      "name": "plugin12",
+      "title": "Plugin 12",
+      "description": "Exercitation in aute ut ex aliqua ea."
+    },
+    {
+      "id": 13,
+      "name": "plugin13",
+      "title": "Plugin 13",
+      "description": "Dolor laboris culpa ipsum aliqua velit mollit."
+    }
+  ]
+}
